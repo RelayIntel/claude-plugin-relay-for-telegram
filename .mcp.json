@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "relay-for-telegram": {
+      "type": "url",
+      "url": "https://relayfortelegram.com/mcp",
+      "note": "Requires OAuth 2.1 authentication with Telegram phone verification. On first use, you'll be prompted to log in with your Telegram phone number."
+    }
+  }
+}
